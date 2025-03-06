@@ -7,4 +7,8 @@ var a=1;
 var b=2;
 var sum = a+b;
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Added heading
